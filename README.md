@@ -1,4 +1,4 @@
-# Bienvenue sur les fichiers de développement d'AriaCraft
+# Remplacer bientôt.
 
 Ariacraft est un serveur orienté Minecraft avec un serveur Garry's Mod
 
